@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Furfurxu,a completly new 
+- 👋 Hi, I’m @Furfurxu,a completly new guy
 - 👀 I’m interested in ai,coding
 - 🌱 I’m currently learning c & python
 - 💞️ I’m looking to collaborate on everything
