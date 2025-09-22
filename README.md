@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @Furfurxu,a completly new guy
-- 👀 I’m interested in ai,coding
-- 🌱 I’m currently learning c & python
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me :my email is 1537224280@qq.com
+# 👋 @Furfurxu  
+
+A coding/AI newbie excited to learn and grow. This is my learning space with practice projects and progress notes.  
+
+
+## 👀 Interests  
+- AI fundamentals & applications  
+- Practical coding projects  
+
+
+## 🌱 Currently Learning  
+- C language (basics & logic)  
+- Python (scripts & basic libraries)  
+
+
+## 💞️ Looking to Collaborate  
+Beginner-friendly projects/exercises. Let's learn together!  
+
+
+## 📫 Contact  
+Email: 1537224280@qq.com  
+
+
+*Work in progress — updating as I learn!* ✨
 
 <!---
 Furfurxu/Furfurxu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
