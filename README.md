@@ -1,7 +1,4 @@
-# 👋 @Furfurxu  
-
-A coding/AI newbie excited to learn and grow. This is my learning space with practice projects and progress notes.  
-
+# 👋 Furfurxu  
 
 ## 👀 Interests  
 - AI fundamentals & applications  
